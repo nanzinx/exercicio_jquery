@@ -47,3 +47,16 @@ button {
 #botao-cancelar {
     background-color: red;
 }
+
+form ul, li {
+    padding: 16px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    list-style: circle;
+    cursor: pointer;
+}
+
+.concluido {
+    text-decoration: line-through;
+}
